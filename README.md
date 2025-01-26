@@ -1,2 +1,5 @@
-En www.aprendepython.es se puede aprender Python desde el principio, y van proponiendo varios ejercicios en cada tema.
-Estos son los ejercicios hechos y corregidos por Pycheck
+## Python  
+
+Aquí pondré todo lo que escriba en Python  
+En la carpeta **Ejercicios aprende-python** están los ejercicios resueltos de la página aprendepython.es corregidos por pycheck  
+También hay un pequeño ejercicio hecho con Pandas de análisis de datos.
